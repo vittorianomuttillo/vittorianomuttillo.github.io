@@ -1,0 +1,2 @@
+# vittorianomuttillo.github.io
+Hepsycode is a prototypal tool to improve the design time of embedded applications. It is based on a System-Level methodology for HW/SW CO-DEsign of HEterogeneous Parallel dedicated SYstems. The whole framework drives the designer from an Electronic System-Level (ESL) behavioral model, with related Non-Functional requirements, including real-time and mixed-criticality ones, to the final HW/SW implementation, considering specific HW technologies, scheduling policies and Inter-Process Communication mechanisms. 
